@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "980297338002",
+    "project_id": "recharge-9e768",
+    "storage_bucket": "recharge-9e768.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980297338002:android:1c36a5f2626a4f8278aa4b",
+        "android_client_info": {
+          "package_name": "com.riseup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-BWDCtym4QywZ6Wf_QxkD8wsT54Bve34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
